@@ -4,7 +4,7 @@
 and report the model that performs best, fine-tune the same model using one of the model fine-tuning techniques.
 and report the best possible combination of hyperparameters for the selected model.
 * Lastly, use the selected model to make final predictions and compare the predicted values with the actual values.
-* Below are the details of the features list for the given Bikes data set:
+# Below are the details of the features list for the given Bikes data set:
 * instant: record index
 * dteday : date
 * season: season (1: springer, 2: summer, 3: fall, 4: winter)
@@ -27,7 +27,7 @@ and report the best possible combination of hyperparameters for the selected mod
 * registered: count of registered users
 * cnt: count of total rental bikes including both casual and registered users
 
-* We will be following the below steps to solve this problem:
+# We will be following the below steps to solve this problem:
 * Importing the libraries
 * Using some pre-defined utility functions
 * Loading the data
